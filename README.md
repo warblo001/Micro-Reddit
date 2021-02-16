@@ -4,14 +4,14 @@
 
 # Micro-Reddit
 
-This project is part from Microverse program, designed to learn the basics of Ruby on Rails creating a Micro-Reddit app where you can create Users, Posts and comments.
+This project is part of Microverse program, designed to learn the basics of Ruby on Rails creating a Micro-Reddit app where you can create Users, Posts, and comments.
 
 
 ## This project has the following features:
 
 - Users Table to create and store users in the database.
 
-- Posts Table to create posts which be linked to User's Table.
+- Posts Table to create posts that be linked to User's Table.
 
 - Comment's Table to create comments for posts.
 
