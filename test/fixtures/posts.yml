@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  [unique,: MyString
+  present]: MyString
+  body: MyText
+  [present]: MyString
+  author_id: 1
+  [present]: MyString
+
+two:
+  title: MyString
+  [unique,: MyString
+  present]: MyString
+  body: MyText
+  [present]: MyString
+  author_id: 1
+  [present]: MyString
